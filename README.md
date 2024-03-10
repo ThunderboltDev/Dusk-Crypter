@@ -24,6 +24,7 @@
 - [ ] - Disable Taskmgr
 - [ ] - Disable Reset My PC
 - [ ] - Destroy Defender
+- [ ] - Bypass ASMI
 
 # Were Can You Buy?
 Join Our Telegram For This Crpter! 

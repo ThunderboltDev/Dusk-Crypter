@@ -1,6 +1,6 @@
 # Dusk-Crypter - LOOKING FOR DEVS - JOIN OUR TELEGRAM BELOW! 
 
-- [X] - Lowers Dections
+- [X] - Lowers Dections (3/59)
 - [X] - Anti Debug
 - [X] - Anti VM
 - [X] - Melt File

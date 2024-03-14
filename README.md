@@ -25,6 +25,7 @@
 - [ ] - Disable Reset My PC
 - [ ] - Destroy Defender
 - [ ] - Bypass ASMI
+- [ ] - Anti Tria.ge
 
 # Were Can You Buy?
 Join Our Telegram For This Crpter! 
